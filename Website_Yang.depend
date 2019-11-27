@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\yaniu\desktop\codeblock\test1\website_yang\website_yang\main.cpp
+	<iostream>
+
+1574863588 source:c:\users\yaniu\desktop\codeblock\test1\website_yang\website_yang\src\user.cpp
+	"User.h"
+
+1574864268 c:\users\yaniu\desktop\codeblock\test1\website_yang\website_yang\include\user.h
+	<iostream>
+	"Event.h"
+
+1574864844 c:\users\yaniu\desktop\codeblock\test1\website_yang\website_yang\include\event.h
+	<iostream>
+
+1574864086 source:c:\users\yaniu\desktop\codeblock\test1\website_yang\website_yang\src\event.cpp
+	"Event.h"
+
